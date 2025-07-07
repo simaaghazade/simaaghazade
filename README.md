@@ -1,21 +1,38 @@
-👋 About Me
+# 👋 Hello, I'm Sima Aghazade!  
 
-   Hi, I'm Sima Aghazade — a frontend developer passionate about building scalable and user-friendly web applications. I have experience working on CRM platforms and e-commerce projects, using technologies like React, TypeScript, and       Next.js.
+**Frontend Developer** | **UI Enthusiast** | **E-commerce & CRM Builder**  
 
-💻 What I Do
+✨ Passionate about crafting **scalable, performant, and delightful** web experiences.  
+🚀 Turning ideas into **clean, maintainable, and user-friendly** interfaces.  
 
-⭐ Build robust UIs with React and TypeScript
+---
 
-⭐ Develop e-commerce solutions with Next.js, focusing on performance and SEO
+## 💻 **What I Do**  
 
-⭐ Use Material-UI and design systems for consistent, accessible interfaces
+- ⭐ **Build robust UIs** with React & TypeScript  
+- ⭐ **Develop e-commerce solutions** with Next.js (performance + SEO focus)  
+- ⭐ **Design consistent interfaces** using Material-UI & design systems  
+- ⭐ **Integrate APIs** & manage state with React Query & hooks  
+- ⭐ **Write clean, reusable code** with testing (Jest)  
 
-⭐ Integrate RESTful APIs and manage state with React hooks and React Query
+---
 
-⭐ Write clean, maintainable, and reusable code
+## 🛠️ **Tech Stack**  
 
-🛠️ Tech Stack
+<p align="left">  
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />  
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />  
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />  
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material-UI" />  
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />  
+</p>  
 
-⭐ React, Next.js, TypeScript, JavaScript, Material-UI, Styled Components, React Query, Jest, Git & GitHub
+---
 
-🍒 I enjoy solving UI challenges, optimizing user experience, and collaborating with teams to deliver great products.
+## 🍒 **Beyond Code**  
+
+- 💡 **Love solving UI/UX challenges**  
+- 🤝 **Team player** who enjoys collaborative problem-solving  
+- 🎨 **Aesthetic-driven** with a focus on pixel-perfect designs  
+
