@@ -1,6 +1,6 @@
 👋 About Me
 
-   Hi, I'm <a href="/">Sima Aghazade</a> — a frontend developer passionate about building scalable and user-friendly web applications. I have experience working on CRM platforms and e-commerce projects, using technologies like React, TypeScript, and       Next.js.
+   Hi, I'm Sima Aghazade — a frontend developer passionate about building scalable and user-friendly web applications. I have experience working on CRM platforms and e-commerce projects, using technologies like React, TypeScript, and       Next.js.
 
 💻 What I Do
 
