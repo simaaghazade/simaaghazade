@@ -1,9 +1,21 @@
-- 👋 Hi, I’m @simaaghazade
-- 👀 I’m interested in web developing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me sima.aghazade22@gmail.com
+👋 About Me
 
-<!---
-simaaghazade/simaaghazade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+   Hi, I'm Sima Aghazade — a frontend developer passionate about building scalable and user-friendly web applications. I have experience working on CRM platforms and e-commerce projects, using technologies like React, TypeScript, and       Next.js.
+
+💻 What I Do
+
+⭐ Build robust UIs with React and TypeScript
+
+⭐ Develop e-commerce solutions with Next.js, focusing on performance and SEO
+
+⭐ Use Material-UI and design systems for consistent, accessible interfaces
+
+⭐ Integrate RESTful APIs and manage state with React hooks and React Query
+
+⭐ Write clean, maintainable, and reusable code
+
+🛠️ Tech Stack
+
+⭐ React, Next.js, TypeScript, JavaScript, Material-UI, Styled Components, React Query, Jest, Git & GitHub
+
+🍒 I enjoy solving UI challenges, optimizing user experience, and collaborating with teams to deliver great products.
